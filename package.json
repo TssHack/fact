@@ -1,0 +1,21 @@
+{
+  "name": "hadith-api",
+  "version": "1.0.0",
+  "description": "API to serve random hadiths with speakers.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "hadith",
+    "api",
+    "express",
+    "random",
+    "islamic"
+  ],
+  "author": "ehsan fazli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
